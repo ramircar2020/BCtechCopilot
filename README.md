@@ -1,1 +1,1 @@
-# BCtechCopilot
+# Probabilidad y Esadistica
