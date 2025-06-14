@@ -1,7 +1,10 @@
 # Probabilidad y Esadistica 2025
 Integrantes:
+
 Galinelli, Brian
+
 Ramirez Miers, Carlos
+
 Scarpato, Nahuel
 
 Todos los files se encuentran aquí
